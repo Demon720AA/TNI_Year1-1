@@ -1,0 +1,13 @@
+C:\Users\2513110672\Desktop\2513110672 Supanut sec2\LabSheet1\Display03\bin\Debug\netcoreapp3.1\Display03.exe
+C:\Users\2513110672\Desktop\2513110672 Supanut sec2\LabSheet1\Display03\bin\Debug\netcoreapp3.1\Display03.deps.json
+C:\Users\2513110672\Desktop\2513110672 Supanut sec2\LabSheet1\Display03\bin\Debug\netcoreapp3.1\Display03.runtimeconfig.json
+C:\Users\2513110672\Desktop\2513110672 Supanut sec2\LabSheet1\Display03\bin\Debug\netcoreapp3.1\Display03.runtimeconfig.dev.json
+C:\Users\2513110672\Desktop\2513110672 Supanut sec2\LabSheet1\Display03\bin\Debug\netcoreapp3.1\Display03.dll
+C:\Users\2513110672\Desktop\2513110672 Supanut sec2\LabSheet1\Display03\bin\Debug\netcoreapp3.1\Display03.pdb
+C:\Users\2513110672\Desktop\2513110672 Supanut sec2\LabSheet1\Display03\obj\Debug\netcoreapp3.1\Display03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2513110672\Desktop\2513110672 Supanut sec2\LabSheet1\Display03\obj\Debug\netcoreapp3.1\Display03.AssemblyInfoInputs.cache
+C:\Users\2513110672\Desktop\2513110672 Supanut sec2\LabSheet1\Display03\obj\Debug\netcoreapp3.1\Display03.AssemblyInfo.cs
+C:\Users\2513110672\Desktop\2513110672 Supanut sec2\LabSheet1\Display03\obj\Debug\netcoreapp3.1\Display03.csproj.CoreCompileInputs.cache
+C:\Users\2513110672\Desktop\2513110672 Supanut sec2\LabSheet1\Display03\obj\Debug\netcoreapp3.1\Display03.dll
+C:\Users\2513110672\Desktop\2513110672 Supanut sec2\LabSheet1\Display03\obj\Debug\netcoreapp3.1\Display03.pdb
+C:\Users\2513110672\Desktop\2513110672 Supanut sec2\LabSheet1\Display03\obj\Debug\netcoreapp3.1\Display03.genruntimeconfig.cache
