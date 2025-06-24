@@ -1,0 +1,13 @@
+C:\Users\2513110672\Desktop\2513110672 Supanut sec2\LabSheet1\Display05\bin\Debug\netcoreapp3.1\Display05.exe
+C:\Users\2513110672\Desktop\2513110672 Supanut sec2\LabSheet1\Display05\bin\Debug\netcoreapp3.1\Display05.deps.json
+C:\Users\2513110672\Desktop\2513110672 Supanut sec2\LabSheet1\Display05\bin\Debug\netcoreapp3.1\Display05.runtimeconfig.json
+C:\Users\2513110672\Desktop\2513110672 Supanut sec2\LabSheet1\Display05\bin\Debug\netcoreapp3.1\Display05.runtimeconfig.dev.json
+C:\Users\2513110672\Desktop\2513110672 Supanut sec2\LabSheet1\Display05\bin\Debug\netcoreapp3.1\Display05.dll
+C:\Users\2513110672\Desktop\2513110672 Supanut sec2\LabSheet1\Display05\bin\Debug\netcoreapp3.1\Display05.pdb
+C:\Users\2513110672\Desktop\2513110672 Supanut sec2\LabSheet1\Display05\obj\Debug\netcoreapp3.1\Display05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2513110672\Desktop\2513110672 Supanut sec2\LabSheet1\Display05\obj\Debug\netcoreapp3.1\Display05.AssemblyInfoInputs.cache
+C:\Users\2513110672\Desktop\2513110672 Supanut sec2\LabSheet1\Display05\obj\Debug\netcoreapp3.1\Display05.AssemblyInfo.cs
+C:\Users\2513110672\Desktop\2513110672 Supanut sec2\LabSheet1\Display05\obj\Debug\netcoreapp3.1\Display05.csproj.CoreCompileInputs.cache
+C:\Users\2513110672\Desktop\2513110672 Supanut sec2\LabSheet1\Display05\obj\Debug\netcoreapp3.1\Display05.dll
+C:\Users\2513110672\Desktop\2513110672 Supanut sec2\LabSheet1\Display05\obj\Debug\netcoreapp3.1\Display05.pdb
+C:\Users\2513110672\Desktop\2513110672 Supanut sec2\LabSheet1\Display05\obj\Debug\netcoreapp3.1\Display05.genruntimeconfig.cache
