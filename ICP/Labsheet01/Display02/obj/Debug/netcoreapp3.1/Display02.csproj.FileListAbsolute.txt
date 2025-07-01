@@ -12,3 +12,5 @@ C:\Users\2513110672\Desktop\2513110672 Supanut sec2\LabSheet1\Display2\obj\Debug
 C:\Users\2513110672\Desktop\2513110672 Supanut sec2\LabSheet1\Display2\obj\Debug\netcoreapp3.1\Display02.dll
 C:\Users\2513110672\Desktop\2513110672 Supanut sec2\LabSheet1\Display2\obj\Debug\netcoreapp3.1\Display02.pdb
 C:\Users\2513110672\Desktop\2513110672 Supanut sec2\LabSheet1\Display2\obj\Debug\netcoreapp3.1\Display02.genruntimeconfig.cache
+D:\TNI_Year1-1\ICP\Labsheet01\Display02\obj\Debug\netcoreapp3.1\Display02.dll
+D:\TNI_Year1-1\ICP\Labsheet01\Display02\obj\Debug\netcoreapp3.1\Display02.pdb

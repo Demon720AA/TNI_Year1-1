@@ -1,0 +1,15 @@
+D:\TNI_Year1-1\ICP\Labsheet02\Variable09\bin\Debug\net8.0\Variable09.exe
+D:\TNI_Year1-1\ICP\Labsheet02\Variable09\bin\Debug\net8.0\Variable09.deps.json
+D:\TNI_Year1-1\ICP\Labsheet02\Variable09\bin\Debug\net8.0\Variable09.runtimeconfig.json
+D:\TNI_Year1-1\ICP\Labsheet02\Variable09\bin\Debug\net8.0\Variable09.dll
+D:\TNI_Year1-1\ICP\Labsheet02\Variable09\bin\Debug\net8.0\Variable09.pdb
+D:\TNI_Year1-1\ICP\Labsheet02\Variable09\obj\Debug\net8.0\Variable09.GeneratedMSBuildEditorConfig.editorconfig
+D:\TNI_Year1-1\ICP\Labsheet02\Variable09\obj\Debug\net8.0\Variable09.AssemblyInfoInputs.cache
+D:\TNI_Year1-1\ICP\Labsheet02\Variable09\obj\Debug\net8.0\Variable09.AssemblyInfo.cs
+D:\TNI_Year1-1\ICP\Labsheet02\Variable09\obj\Debug\net8.0\Variable09.csproj.CoreCompileInputs.cache
+D:\TNI_Year1-1\ICP\Labsheet02\Variable09\obj\Debug\net8.0\Variable09.sourcelink.json
+D:\TNI_Year1-1\ICP\Labsheet02\Variable09\obj\Debug\net8.0\Variable09.dll
+D:\TNI_Year1-1\ICP\Labsheet02\Variable09\obj\Debug\net8.0\refint\Variable09.dll
+D:\TNI_Year1-1\ICP\Labsheet02\Variable09\obj\Debug\net8.0\Variable09.pdb
+D:\TNI_Year1-1\ICP\Labsheet02\Variable09\obj\Debug\net8.0\Variable09.genruntimeconfig.cache
+D:\TNI_Year1-1\ICP\Labsheet02\Variable09\obj\Debug\net8.0\ref\Variable09.dll

@@ -1,0 +1,15 @@
+D:\TNI_Year1-1\ICP\Labsheet02\VariableExample1\VariableExample1\bin\Debug\net8.0\VariableExample1.exe
+D:\TNI_Year1-1\ICP\Labsheet02\VariableExample1\VariableExample1\bin\Debug\net8.0\VariableExample1.deps.json
+D:\TNI_Year1-1\ICP\Labsheet02\VariableExample1\VariableExample1\bin\Debug\net8.0\VariableExample1.runtimeconfig.json
+D:\TNI_Year1-1\ICP\Labsheet02\VariableExample1\VariableExample1\bin\Debug\net8.0\VariableExample1.dll
+D:\TNI_Year1-1\ICP\Labsheet02\VariableExample1\VariableExample1\bin\Debug\net8.0\VariableExample1.pdb
+D:\TNI_Year1-1\ICP\Labsheet02\VariableExample1\VariableExample1\obj\Debug\net8.0\VariableExample1.GeneratedMSBuildEditorConfig.editorconfig
+D:\TNI_Year1-1\ICP\Labsheet02\VariableExample1\VariableExample1\obj\Debug\net8.0\VariableExample1.AssemblyInfoInputs.cache
+D:\TNI_Year1-1\ICP\Labsheet02\VariableExample1\VariableExample1\obj\Debug\net8.0\VariableExample1.AssemblyInfo.cs
+D:\TNI_Year1-1\ICP\Labsheet02\VariableExample1\VariableExample1\obj\Debug\net8.0\VariableExample1.csproj.CoreCompileInputs.cache
+D:\TNI_Year1-1\ICP\Labsheet02\VariableExample1\VariableExample1\obj\Debug\net8.0\VariableExample1.sourcelink.json
+D:\TNI_Year1-1\ICP\Labsheet02\VariableExample1\VariableExample1\obj\Debug\net8.0\VariableExample1.dll
+D:\TNI_Year1-1\ICP\Labsheet02\VariableExample1\VariableExample1\obj\Debug\net8.0\refint\VariableExample1.dll
+D:\TNI_Year1-1\ICP\Labsheet02\VariableExample1\VariableExample1\obj\Debug\net8.0\VariableExample1.pdb
+D:\TNI_Year1-1\ICP\Labsheet02\VariableExample1\VariableExample1\obj\Debug\net8.0\VariableExample1.genruntimeconfig.cache
+D:\TNI_Year1-1\ICP\Labsheet02\VariableExample1\VariableExample1\obj\Debug\net8.0\ref\VariableExample1.dll
