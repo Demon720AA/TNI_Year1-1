@@ -1,0 +1,14 @@
+D:\TNI_Year1-1\ICP\Labsheet03\Input11\bin\Debug\net8.0\Input11.exe
+D:\TNI_Year1-1\ICP\Labsheet03\Input11\bin\Debug\net8.0\Input11.deps.json
+D:\TNI_Year1-1\ICP\Labsheet03\Input11\bin\Debug\net8.0\Input11.runtimeconfig.json
+D:\TNI_Year1-1\ICP\Labsheet03\Input11\bin\Debug\net8.0\Input11.dll
+D:\TNI_Year1-1\ICP\Labsheet03\Input11\bin\Debug\net8.0\Input11.pdb
+D:\TNI_Year1-1\ICP\Labsheet03\Input11\obj\Debug\net8.0\Input11.GeneratedMSBuildEditorConfig.editorconfig
+D:\TNI_Year1-1\ICP\Labsheet03\Input11\obj\Debug\net8.0\Input11.AssemblyInfoInputs.cache
+D:\TNI_Year1-1\ICP\Labsheet03\Input11\obj\Debug\net8.0\Input11.AssemblyInfo.cs
+D:\TNI_Year1-1\ICP\Labsheet03\Input11\obj\Debug\net8.0\Input11.csproj.CoreCompileInputs.cache
+D:\TNI_Year1-1\ICP\Labsheet03\Input11\obj\Debug\net8.0\Input11.dll
+D:\TNI_Year1-1\ICP\Labsheet03\Input11\obj\Debug\net8.0\refint\Input11.dll
+D:\TNI_Year1-1\ICP\Labsheet03\Input11\obj\Debug\net8.0\Input11.pdb
+D:\TNI_Year1-1\ICP\Labsheet03\Input11\obj\Debug\net8.0\Input11.genruntimeconfig.cache
+D:\TNI_Year1-1\ICP\Labsheet03\Input11\obj\Debug\net8.0\ref\Input11.dll
