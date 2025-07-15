@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TNI_Year1-1\\ICP\\Labsheet04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5FD4DC4-79C8-4579-87F0-EF6522E7D383}|Selection05\\Selection05.csproj|d:\\tni_year1-1\\icp\\labsheet04\\selection05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5FD4DC4-79C8-4579-87F0-EF6522E7D383}|Selection05\\Selection05.csproj|solutionrelative:selection05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03254327-BC00-46BA-98FB-AE2E3C66DED3}|Selection03\\Selection03.csproj|d:\\tni_year1-1\\icp\\labsheet04\\selection03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03254327-BC00-46BA-98FB-AE2E3C66DED3}|Selection03\\Selection03.csproj|solutionrelative:selection03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330ABABD-4D41-4D7F-B991-1318F63D9A96}|Selection02\\Selection02.csproj|d:\\tni_year1-1\\icp\\labsheet04\\selection02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{330ABABD-4D41-4D7F-B991-1318F63D9A96}|Selection02\\Selection02.csproj|solutionrelative:selection02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D85C735A-0111-4FCA-9CDF-384F62934567}|Selection01\\Selection01.csproj|d:\\tni_year1-1\\icp\\labsheet04\\selection01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D85C735A-0111-4FCA-9CDF-384F62934567}|Selection01\\Selection01.csproj|solutionrelative:selection01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{096DE25C-BD82-4852-89A2-F76CFA7888C5}|Selection04\\Selection04.csproj|d:\\tni_year1-1\\icp\\labsheet04\\selection04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{096DE25C-BD82-4852-89A2-F76CFA7888C5}|Selection04\\Selection04.csproj|solutionrelative:selection04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA37257E-1415-42A0-AD48-A1ED4058CD18}|SelectionExample01\\SelectionExample01.csproj|d:\\tni_year1-1\\icp\\labsheet04\\selectionexample01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA37257E-1415-42A0-AD48-A1ED4058CD18}|SelectionExample01\\SelectionExample01.csproj|solutionrelative:selectionexample01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{946F9A8A-22D8-4292-871F-B4214765EB8B}|SelectionExample02\\SelectionExample02.csproj|d:\\tni_year1-1\\icp\\labsheet04\\selectionexample02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{946F9A8A-22D8-4292-871F-B4214765EB8B}|SelectionExample02\\SelectionExample02.csproj|solutionrelative:selectionexample02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA572C3E-C3F1-43A1-A277-3FD506CFEEFC}|Selection07\\Selection07.csproj|d:\\tni_year1-1\\icp\\labsheet04\\selection07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA572C3E-C3F1-43A1-A277-3FD506CFEEFC}|Selection07\\Selection07.csproj|solutionrelative:selection07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAEC6790-5FF5-4E28-95AF-0A99EF05C2BE}|Selection06\\Selection06.csproj|d:\\tni_year1-1\\icp\\labsheet04\\selection06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAEC6790-5FF5-4E28-95AF-0A99EF05C2BE}|Selection06\\Selection06.csproj|solutionrelative:selection06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TNI_Year1-1\\ICP\\Labsheet04\\Selection05\\Program.cs",
+              "RelativeDocumentMoniker": "Selection05\\Program.cs",
+              "ToolTip": "D:\\TNI_Year1-1\\ICP\\Labsheet04\\Selection05\\Program.cs",
+              "RelativeToolTip": "Selection05\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T14:18:32.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TNI_Year1-1\\ICP\\Labsheet04\\Selection03\\Program.cs",
+              "RelativeDocumentMoniker": "Selection03\\Program.cs",
+              "ToolTip": "D:\\TNI_Year1-1\\ICP\\Labsheet04\\Selection03\\Program.cs",
+              "RelativeToolTip": "Selection03\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T14:11:49.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TNI_Year1-1\\ICP\\Labsheet04\\Selection02\\Program.cs",
+              "RelativeDocumentMoniker": "Selection02\\Program.cs",
+              "ToolTip": "D:\\TNI_Year1-1\\ICP\\Labsheet04\\Selection02\\Program.cs",
+              "RelativeToolTip": "Selection02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T14:06:38.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TNI_Year1-1\\ICP\\Labsheet04\\Selection01\\Program.cs",
+              "RelativeDocumentMoniker": "Selection01\\Program.cs",
+              "ToolTip": "D:\\TNI_Year1-1\\ICP\\Labsheet04\\Selection01\\Program.cs",
+              "RelativeToolTip": "Selection01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T14:02:16.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TNI_Year1-1\\ICP\\Labsheet04\\SelectionExample01\\Program.cs",
+              "RelativeDocumentMoniker": "SelectionExample01\\Program.cs",
+              "ToolTip": "D:\\TNI_Year1-1\\ICP\\Labsheet04\\SelectionExample01\\Program.cs",
+              "RelativeToolTip": "SelectionExample01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T13:51:27.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TNI_Year1-1\\ICP\\Labsheet04\\Selection07\\Program.cs",
+              "RelativeDocumentMoniker": "Selection07\\Program.cs",
+              "ToolTip": "D:\\TNI_Year1-1\\ICP\\Labsheet04\\Selection07\\Program.cs",
+              "RelativeToolTip": "Selection07\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T13:41:14.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TNI_Year1-1\\ICP\\Labsheet04\\Selection06\\Program.cs",
+              "RelativeDocumentMoniker": "Selection06\\Program.cs",
+              "ToolTip": "D:\\TNI_Year1-1\\ICP\\Labsheet04\\Selection06\\Program.cs",
+              "RelativeToolTip": "Selection06\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T13:31:58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TNI_Year1-1\\ICP\\Labsheet04\\Selection04\\Program.cs",
+              "RelativeDocumentMoniker": "Selection04\\Program.cs",
+              "ToolTip": "D:\\TNI_Year1-1\\ICP\\Labsheet04\\Selection04\\Program.cs",
+              "RelativeToolTip": "Selection04\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T13:26:50.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TNI_Year1-1\\ICP\\Labsheet04\\SelectionExample02\\Program.cs",
+              "RelativeDocumentMoniker": "SelectionExample02\\Program.cs",
+              "ToolTip": "D:\\TNI_Year1-1\\ICP\\Labsheet04\\SelectionExample02\\Program.cs",
+              "RelativeToolTip": "SelectionExample02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T12:58:05.132Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
