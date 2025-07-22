@@ -1,0 +1,14 @@
+D:\TNI_Year1-1\ICP\Labsheet05\calculateBuffet\bin\Debug\net8.0\calculateBuffet.exe
+D:\TNI_Year1-1\ICP\Labsheet05\calculateBuffet\bin\Debug\net8.0\calculateBuffet.deps.json
+D:\TNI_Year1-1\ICP\Labsheet05\calculateBuffet\bin\Debug\net8.0\calculateBuffet.runtimeconfig.json
+D:\TNI_Year1-1\ICP\Labsheet05\calculateBuffet\bin\Debug\net8.0\calculateBuffet.dll
+D:\TNI_Year1-1\ICP\Labsheet05\calculateBuffet\bin\Debug\net8.0\calculateBuffet.pdb
+D:\TNI_Year1-1\ICP\Labsheet05\calculateBuffet\obj\Debug\net8.0\calculateBuffet.GeneratedMSBuildEditorConfig.editorconfig
+D:\TNI_Year1-1\ICP\Labsheet05\calculateBuffet\obj\Debug\net8.0\calculateBuffet.AssemblyInfoInputs.cache
+D:\TNI_Year1-1\ICP\Labsheet05\calculateBuffet\obj\Debug\net8.0\calculateBuffet.AssemblyInfo.cs
+D:\TNI_Year1-1\ICP\Labsheet05\calculateBuffet\obj\Debug\net8.0\calculateBuffet.csproj.CoreCompileInputs.cache
+D:\TNI_Year1-1\ICP\Labsheet05\calculateBuffet\obj\Debug\net8.0\calculateBuffet.dll
+D:\TNI_Year1-1\ICP\Labsheet05\calculateBuffet\obj\Debug\net8.0\refint\calculateBuffet.dll
+D:\TNI_Year1-1\ICP\Labsheet05\calculateBuffet\obj\Debug\net8.0\calculateBuffet.pdb
+D:\TNI_Year1-1\ICP\Labsheet05\calculateBuffet\obj\Debug\net8.0\calculateBuffet.genruntimeconfig.cache
+D:\TNI_Year1-1\ICP\Labsheet05\calculateBuffet\obj\Debug\net8.0\ref\calculateBuffet.dll

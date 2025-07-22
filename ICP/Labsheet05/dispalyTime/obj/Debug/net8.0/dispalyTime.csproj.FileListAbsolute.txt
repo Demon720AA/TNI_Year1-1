@@ -1,0 +1,14 @@
+D:\TNI_Year1-1\ICP\Labsheet05\dispalyTime\bin\Debug\net8.0\dispalyTime.exe
+D:\TNI_Year1-1\ICP\Labsheet05\dispalyTime\bin\Debug\net8.0\dispalyTime.deps.json
+D:\TNI_Year1-1\ICP\Labsheet05\dispalyTime\bin\Debug\net8.0\dispalyTime.runtimeconfig.json
+D:\TNI_Year1-1\ICP\Labsheet05\dispalyTime\bin\Debug\net8.0\dispalyTime.dll
+D:\TNI_Year1-1\ICP\Labsheet05\dispalyTime\bin\Debug\net8.0\dispalyTime.pdb
+D:\TNI_Year1-1\ICP\Labsheet05\dispalyTime\obj\Debug\net8.0\dispalyTime.GeneratedMSBuildEditorConfig.editorconfig
+D:\TNI_Year1-1\ICP\Labsheet05\dispalyTime\obj\Debug\net8.0\dispalyTime.AssemblyInfoInputs.cache
+D:\TNI_Year1-1\ICP\Labsheet05\dispalyTime\obj\Debug\net8.0\dispalyTime.AssemblyInfo.cs
+D:\TNI_Year1-1\ICP\Labsheet05\dispalyTime\obj\Debug\net8.0\dispalyTime.csproj.CoreCompileInputs.cache
+D:\TNI_Year1-1\ICP\Labsheet05\dispalyTime\obj\Debug\net8.0\dispalyTime.dll
+D:\TNI_Year1-1\ICP\Labsheet05\dispalyTime\obj\Debug\net8.0\refint\dispalyTime.dll
+D:\TNI_Year1-1\ICP\Labsheet05\dispalyTime\obj\Debug\net8.0\dispalyTime.pdb
+D:\TNI_Year1-1\ICP\Labsheet05\dispalyTime\obj\Debug\net8.0\dispalyTime.genruntimeconfig.cache
+D:\TNI_Year1-1\ICP\Labsheet05\dispalyTime\obj\Debug\net8.0\ref\dispalyTime.dll

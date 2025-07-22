@@ -1,0 +1,14 @@
+D:\TNI_Year1-1\ICP\Labsheet05\TicketofMuseum\bin\Debug\net8.0\TicketofMuseum.exe
+D:\TNI_Year1-1\ICP\Labsheet05\TicketofMuseum\bin\Debug\net8.0\TicketofMuseum.deps.json
+D:\TNI_Year1-1\ICP\Labsheet05\TicketofMuseum\bin\Debug\net8.0\TicketofMuseum.runtimeconfig.json
+D:\TNI_Year1-1\ICP\Labsheet05\TicketofMuseum\bin\Debug\net8.0\TicketofMuseum.dll
+D:\TNI_Year1-1\ICP\Labsheet05\TicketofMuseum\bin\Debug\net8.0\TicketofMuseum.pdb
+D:\TNI_Year1-1\ICP\Labsheet05\TicketofMuseum\obj\Debug\net8.0\TicketofMuseum.GeneratedMSBuildEditorConfig.editorconfig
+D:\TNI_Year1-1\ICP\Labsheet05\TicketofMuseum\obj\Debug\net8.0\TicketofMuseum.AssemblyInfoInputs.cache
+D:\TNI_Year1-1\ICP\Labsheet05\TicketofMuseum\obj\Debug\net8.0\TicketofMuseum.AssemblyInfo.cs
+D:\TNI_Year1-1\ICP\Labsheet05\TicketofMuseum\obj\Debug\net8.0\TicketofMuseum.csproj.CoreCompileInputs.cache
+D:\TNI_Year1-1\ICP\Labsheet05\TicketofMuseum\obj\Debug\net8.0\TicketofMuseum.dll
+D:\TNI_Year1-1\ICP\Labsheet05\TicketofMuseum\obj\Debug\net8.0\refint\TicketofMuseum.dll
+D:\TNI_Year1-1\ICP\Labsheet05\TicketofMuseum\obj\Debug\net8.0\TicketofMuseum.pdb
+D:\TNI_Year1-1\ICP\Labsheet05\TicketofMuseum\obj\Debug\net8.0\TicketofMuseum.genruntimeconfig.cache
+D:\TNI_Year1-1\ICP\Labsheet05\TicketofMuseum\obj\Debug\net8.0\ref\TicketofMuseum.dll

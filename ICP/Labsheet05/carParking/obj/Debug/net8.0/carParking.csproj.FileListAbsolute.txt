@@ -1,0 +1,14 @@
+D:\TNI_Year1-1\ICP\Labsheet05\carParking\bin\Debug\net8.0\carParking.exe
+D:\TNI_Year1-1\ICP\Labsheet05\carParking\bin\Debug\net8.0\carParking.deps.json
+D:\TNI_Year1-1\ICP\Labsheet05\carParking\bin\Debug\net8.0\carParking.runtimeconfig.json
+D:\TNI_Year1-1\ICP\Labsheet05\carParking\bin\Debug\net8.0\carParking.dll
+D:\TNI_Year1-1\ICP\Labsheet05\carParking\bin\Debug\net8.0\carParking.pdb
+D:\TNI_Year1-1\ICP\Labsheet05\carParking\obj\Debug\net8.0\carParking.GeneratedMSBuildEditorConfig.editorconfig
+D:\TNI_Year1-1\ICP\Labsheet05\carParking\obj\Debug\net8.0\carParking.AssemblyInfoInputs.cache
+D:\TNI_Year1-1\ICP\Labsheet05\carParking\obj\Debug\net8.0\carParking.AssemblyInfo.cs
+D:\TNI_Year1-1\ICP\Labsheet05\carParking\obj\Debug\net8.0\carParking.csproj.CoreCompileInputs.cache
+D:\TNI_Year1-1\ICP\Labsheet05\carParking\obj\Debug\net8.0\carParking.dll
+D:\TNI_Year1-1\ICP\Labsheet05\carParking\obj\Debug\net8.0\refint\carParking.dll
+D:\TNI_Year1-1\ICP\Labsheet05\carParking\obj\Debug\net8.0\carParking.pdb
+D:\TNI_Year1-1\ICP\Labsheet05\carParking\obj\Debug\net8.0\carParking.genruntimeconfig.cache
+D:\TNI_Year1-1\ICP\Labsheet05\carParking\obj\Debug\net8.0\ref\carParking.dll
