@@ -1,0 +1,14 @@
+D:\TNI_Year1-1\ICP\Quize1\Quize1\bin\Debug\net8.0\Quize1.exe
+D:\TNI_Year1-1\ICP\Quize1\Quize1\bin\Debug\net8.0\Quize1.deps.json
+D:\TNI_Year1-1\ICP\Quize1\Quize1\bin\Debug\net8.0\Quize1.runtimeconfig.json
+D:\TNI_Year1-1\ICP\Quize1\Quize1\bin\Debug\net8.0\Quize1.dll
+D:\TNI_Year1-1\ICP\Quize1\Quize1\bin\Debug\net8.0\Quize1.pdb
+D:\TNI_Year1-1\ICP\Quize1\Quize1\obj\Debug\net8.0\Quize1.GeneratedMSBuildEditorConfig.editorconfig
+D:\TNI_Year1-1\ICP\Quize1\Quize1\obj\Debug\net8.0\Quize1.AssemblyInfoInputs.cache
+D:\TNI_Year1-1\ICP\Quize1\Quize1\obj\Debug\net8.0\Quize1.AssemblyInfo.cs
+D:\TNI_Year1-1\ICP\Quize1\Quize1\obj\Debug\net8.0\Quize1.csproj.CoreCompileInputs.cache
+D:\TNI_Year1-1\ICP\Quize1\Quize1\obj\Debug\net8.0\Quize1.dll
+D:\TNI_Year1-1\ICP\Quize1\Quize1\obj\Debug\net8.0\refint\Quize1.dll
+D:\TNI_Year1-1\ICP\Quize1\Quize1\obj\Debug\net8.0\Quize1.pdb
+D:\TNI_Year1-1\ICP\Quize1\Quize1\obj\Debug\net8.0\Quize1.genruntimeconfig.cache
+D:\TNI_Year1-1\ICP\Quize1\Quize1\obj\Debug\net8.0\ref\Quize1.dll
