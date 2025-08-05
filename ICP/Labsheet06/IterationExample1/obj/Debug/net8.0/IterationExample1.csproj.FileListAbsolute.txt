@@ -1,0 +1,14 @@
+D:\TNI_Year1-1\ICP\Labsheet06\IterationExample1\bin\Debug\net8.0\IterationExample1.exe
+D:\TNI_Year1-1\ICP\Labsheet06\IterationExample1\bin\Debug\net8.0\IterationExample1.deps.json
+D:\TNI_Year1-1\ICP\Labsheet06\IterationExample1\bin\Debug\net8.0\IterationExample1.runtimeconfig.json
+D:\TNI_Year1-1\ICP\Labsheet06\IterationExample1\bin\Debug\net8.0\IterationExample1.dll
+D:\TNI_Year1-1\ICP\Labsheet06\IterationExample1\bin\Debug\net8.0\IterationExample1.pdb
+D:\TNI_Year1-1\ICP\Labsheet06\IterationExample1\obj\Debug\net8.0\IterationExample1.GeneratedMSBuildEditorConfig.editorconfig
+D:\TNI_Year1-1\ICP\Labsheet06\IterationExample1\obj\Debug\net8.0\IterationExample1.AssemblyInfoInputs.cache
+D:\TNI_Year1-1\ICP\Labsheet06\IterationExample1\obj\Debug\net8.0\IterationExample1.AssemblyInfo.cs
+D:\TNI_Year1-1\ICP\Labsheet06\IterationExample1\obj\Debug\net8.0\IterationExample1.csproj.CoreCompileInputs.cache
+D:\TNI_Year1-1\ICP\Labsheet06\IterationExample1\obj\Debug\net8.0\IterationExample1.dll
+D:\TNI_Year1-1\ICP\Labsheet06\IterationExample1\obj\Debug\net8.0\refint\IterationExample1.dll
+D:\TNI_Year1-1\ICP\Labsheet06\IterationExample1\obj\Debug\net8.0\IterationExample1.pdb
+D:\TNI_Year1-1\ICP\Labsheet06\IterationExample1\obj\Debug\net8.0\IterationExample1.genruntimeconfig.cache
+D:\TNI_Year1-1\ICP\Labsheet06\IterationExample1\obj\Debug\net8.0\ref\IterationExample1.dll
