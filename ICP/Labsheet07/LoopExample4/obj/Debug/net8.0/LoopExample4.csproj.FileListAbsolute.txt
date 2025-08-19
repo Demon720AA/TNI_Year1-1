@@ -1,0 +1,14 @@
+D:\TNI_Year1-1\ICP\Labsheet07\LoopExample4\bin\Debug\net8.0\LoopExample4.exe
+D:\TNI_Year1-1\ICP\Labsheet07\LoopExample4\bin\Debug\net8.0\LoopExample4.deps.json
+D:\TNI_Year1-1\ICP\Labsheet07\LoopExample4\bin\Debug\net8.0\LoopExample4.runtimeconfig.json
+D:\TNI_Year1-1\ICP\Labsheet07\LoopExample4\bin\Debug\net8.0\LoopExample4.dll
+D:\TNI_Year1-1\ICP\Labsheet07\LoopExample4\bin\Debug\net8.0\LoopExample4.pdb
+D:\TNI_Year1-1\ICP\Labsheet07\LoopExample4\obj\Debug\net8.0\LoopExample4.GeneratedMSBuildEditorConfig.editorconfig
+D:\TNI_Year1-1\ICP\Labsheet07\LoopExample4\obj\Debug\net8.0\LoopExample4.AssemblyInfoInputs.cache
+D:\TNI_Year1-1\ICP\Labsheet07\LoopExample4\obj\Debug\net8.0\LoopExample4.AssemblyInfo.cs
+D:\TNI_Year1-1\ICP\Labsheet07\LoopExample4\obj\Debug\net8.0\LoopExample4.csproj.CoreCompileInputs.cache
+D:\TNI_Year1-1\ICP\Labsheet07\LoopExample4\obj\Debug\net8.0\LoopExample4.dll
+D:\TNI_Year1-1\ICP\Labsheet07\LoopExample4\obj\Debug\net8.0\refint\LoopExample4.dll
+D:\TNI_Year1-1\ICP\Labsheet07\LoopExample4\obj\Debug\net8.0\LoopExample4.pdb
+D:\TNI_Year1-1\ICP\Labsheet07\LoopExample4\obj\Debug\net8.0\LoopExample4.genruntimeconfig.cache
+D:\TNI_Year1-1\ICP\Labsheet07\LoopExample4\obj\Debug\net8.0\ref\LoopExample4.dll
