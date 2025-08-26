@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TNI_Year1-1\\ICP\\Labsheet08\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F57099A-30C3-4FF4-AEA2-2A0AF6467F29}|Array8\\Array8.csproj|d:\\tni_year1-1\\icp\\labsheet08\\array8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F57099A-30C3-4FF4-AEA2-2A0AF6467F29}|Array8\\Array8.csproj|solutionrelative:array8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{066768F8-6351-4F5C-A94F-BF131A5067DF}|Array07\\Array07.csproj|d:\\tni_year1-1\\icp\\labsheet08\\array07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{066768F8-6351-4F5C-A94F-BF131A5067DF}|Array07\\Array07.csproj|solutionrelative:array07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4651BA72-936A-4374-8DDD-244FB0A77937}|Array06\\Array06.csproj|d:\\tni_year1-1\\icp\\labsheet08\\array06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4651BA72-936A-4374-8DDD-244FB0A77937}|Array06\\Array06.csproj|solutionrelative:array06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19EA677F-708F-43D8-9835-8AC11A7EE787}|Array05\\Array05.csproj|d:\\tni_year1-1\\icp\\labsheet08\\array05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19EA677F-708F-43D8-9835-8AC11A7EE787}|Array05\\Array05.csproj|solutionrelative:array05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4EAA38-A4DD-4405-A2FF-29477E1305E1}|Array04\\Array04.csproj|d:\\tni_year1-1\\icp\\labsheet08\\array04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4EAA38-A4DD-4405-A2FF-29477E1305E1}|Array04\\Array04.csproj|solutionrelative:array04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BBCFFA2-6E3D-4BCB-AAD5-F0AE95E2CAAB}|Array01\\Array01.csproj|d:\\tni_year1-1\\icp\\labsheet08\\array01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BBCFFA2-6E3D-4BCB-AAD5-F0AE95E2CAAB}|Array01\\Array01.csproj|solutionrelative:array01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D375E84D-A33F-4034-BCF5-D4AD9C921C50}|ArrayExample03\\ArrayExample03.csproj|d:\\tni_year1-1\\icp\\labsheet08\\arrayexample03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D375E84D-A33F-4034-BCF5-D4AD9C921C50}|ArrayExample03\\ArrayExample03.csproj|solutionrelative:arrayexample03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95732F05-AF7A-4117-99DA-485F26FE74FC}|ArrayExample02\\ArrayExample02.csproj|d:\\tni_year1-1\\icp\\labsheet08\\arrayexample02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95732F05-AF7A-4117-99DA-485F26FE74FC}|ArrayExample02\\ArrayExample02.csproj|solutionrelative:arrayexample02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2553517E-0773-4F1B-9570-E2B943BBFD89}|Array03\\Array03.csproj|d:\\tni_year1-1\\icp\\labsheet08\\array03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2553517E-0773-4F1B-9570-E2B943BBFD89}|Array03\\Array03.csproj|solutionrelative:array03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E4CA25-15CB-4DF7-B11F-7979D29478A3}|ArrayExample04\\ArrayExample04.csproj|d:\\tni_year1-1\\icp\\labsheet08\\arrayexample04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E4CA25-15CB-4DF7-B11F-7979D29478A3}|ArrayExample04\\ArrayExample04.csproj|solutionrelative:arrayexample04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF01C155-2464-4799-B0C4-F3517D8FF8EB}|Array02\\Array02.csproj|d:\\tni_year1-1\\icp\\labsheet08\\array02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF01C155-2464-4799-B0C4-F3517D8FF8EB}|Array02\\Array02.csproj|solutionrelative:array02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{920203BB-B09E-4D67-8DF9-64DDF4019E3F}|Labsheet08\\ArrayExample01.csproj|d:\\tni_year1-1\\icp\\labsheet08\\labsheet08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{920203BB-B09E-4D67-8DF9-64DDF4019E3F}|Labsheet08\\ArrayExample01.csproj|solutionrelative:labsheet08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TNI_Year1-1\\ICP\\Labsheet08\\Array07\\Program.cs",
+              "RelativeDocumentMoniker": "Array07\\Program.cs",
+              "ToolTip": "D:\\TNI_Year1-1\\ICP\\Labsheet08\\Array07\\Program.cs",
+              "RelativeToolTip": "Array07\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T07:52:18.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TNI_Year1-1\\ICP\\Labsheet08\\Array06\\Program.cs",
+              "RelativeDocumentMoniker": "Array06\\Program.cs",
+              "ToolTip": "D:\\TNI_Year1-1\\ICP\\Labsheet08\\Array06\\Program.cs",
+              "RelativeToolTip": "Array06\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T07:33:01.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TNI_Year1-1\\ICP\\Labsheet08\\Array05\\Program.cs",
+              "RelativeDocumentMoniker": "Array05\\Program.cs",
+              "ToolTip": "D:\\TNI_Year1-1\\ICP\\Labsheet08\\Array05\\Program.cs",
+              "RelativeToolTip": "Array05\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T07:14:59.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TNI_Year1-1\\ICP\\Labsheet08\\Array04\\Program.cs",
+              "RelativeDocumentMoniker": "Array04\\Program.cs",
+              "ToolTip": "D:\\TNI_Year1-1\\ICP\\Labsheet08\\Array04\\Program.cs",
+              "RelativeToolTip": "Array04\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T07:00:48.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TNI_Year1-1\\ICP\\Labsheet08\\Array8\\Program.cs",
+              "RelativeDocumentMoniker": "Array8\\Program.cs",
+              "ToolTip": "D:\\TNI_Year1-1\\ICP\\Labsheet08\\Array8\\Program.cs",
+              "RelativeToolTip": "Array8\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T06:54:03.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TNI_Year1-1\\ICP\\Labsheet08\\Array03\\Program.cs",
+              "RelativeDocumentMoniker": "Array03\\Program.cs",
+              "ToolTip": "D:\\TNI_Year1-1\\ICP\\Labsheet08\\Array03\\Program.cs",
+              "RelativeToolTip": "Array03\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T06:51:19.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TNI_Year1-1\\ICP\\Labsheet08\\Array02\\Program.cs",
+              "RelativeDocumentMoniker": "Array02\\Program.cs",
+              "ToolTip": "D:\\TNI_Year1-1\\ICP\\Labsheet08\\Array02\\Program.cs",
+              "RelativeToolTip": "Array02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T06:17:02.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TNI_Year1-1\\ICP\\Labsheet08\\Array01\\Program.cs",
+              "RelativeDocumentMoniker": "Array01\\Program.cs",
+              "ToolTip": "D:\\TNI_Year1-1\\ICP\\Labsheet08\\Array01\\Program.cs",
+              "RelativeToolTip": "Array01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T06:10:19.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TNI_Year1-1\\ICP\\Labsheet08\\ArrayExample04\\Program.cs",
+              "RelativeDocumentMoniker": "ArrayExample04\\Program.cs",
+              "ToolTip": "D:\\TNI_Year1-1\\ICP\\Labsheet08\\ArrayExample04\\Program.cs",
+              "RelativeToolTip": "ArrayExample04\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T04:24:20.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TNI_Year1-1\\ICP\\Labsheet08\\ArrayExample03\\Program.cs",
+              "RelativeDocumentMoniker": "ArrayExample03\\Program.cs",
+              "ToolTip": "D:\\TNI_Year1-1\\ICP\\Labsheet08\\ArrayExample03\\Program.cs",
+              "RelativeToolTip": "ArrayExample03\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T03:57:46.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TNI_Year1-1\\ICP\\Labsheet08\\Labsheet08\\Program.cs",
+              "RelativeDocumentMoniker": "Labsheet08\\Program.cs",
+              "ToolTip": "D:\\TNI_Year1-1\\ICP\\Labsheet08\\Labsheet08\\Program.cs",
+              "RelativeToolTip": "Labsheet08\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T03:03:16.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TNI_Year1-1\\ICP\\Labsheet08\\ArrayExample02\\Program.cs",
+              "RelativeDocumentMoniker": "ArrayExample02\\Program.cs",
+              "ToolTip": "D:\\TNI_Year1-1\\ICP\\Labsheet08\\ArrayExample02\\Program.cs",
+              "RelativeToolTip": "ArrayExample02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T03:18:08.895Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

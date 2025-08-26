@@ -1,0 +1,14 @@
+D:\TNI_Year1-1\ICP\ArrayExample01\ArrayExample04\bin\Debug\net8.0\ArrayExample04.exe
+D:\TNI_Year1-1\ICP\ArrayExample01\ArrayExample04\bin\Debug\net8.0\ArrayExample04.deps.json
+D:\TNI_Year1-1\ICP\ArrayExample01\ArrayExample04\bin\Debug\net8.0\ArrayExample04.runtimeconfig.json
+D:\TNI_Year1-1\ICP\ArrayExample01\ArrayExample04\bin\Debug\net8.0\ArrayExample04.dll
+D:\TNI_Year1-1\ICP\ArrayExample01\ArrayExample04\bin\Debug\net8.0\ArrayExample04.pdb
+D:\TNI_Year1-1\ICP\ArrayExample01\ArrayExample04\obj\Debug\net8.0\ArrayExample04.GeneratedMSBuildEditorConfig.editorconfig
+D:\TNI_Year1-1\ICP\ArrayExample01\ArrayExample04\obj\Debug\net8.0\ArrayExample04.AssemblyInfoInputs.cache
+D:\TNI_Year1-1\ICP\ArrayExample01\ArrayExample04\obj\Debug\net8.0\ArrayExample04.AssemblyInfo.cs
+D:\TNI_Year1-1\ICP\ArrayExample01\ArrayExample04\obj\Debug\net8.0\ArrayExample04.csproj.CoreCompileInputs.cache
+D:\TNI_Year1-1\ICP\ArrayExample01\ArrayExample04\obj\Debug\net8.0\ArrayExample04.dll
+D:\TNI_Year1-1\ICP\ArrayExample01\ArrayExample04\obj\Debug\net8.0\refint\ArrayExample04.dll
+D:\TNI_Year1-1\ICP\ArrayExample01\ArrayExample04\obj\Debug\net8.0\ArrayExample04.pdb
+D:\TNI_Year1-1\ICP\ArrayExample01\ArrayExample04\obj\Debug\net8.0\ArrayExample04.genruntimeconfig.cache
+D:\TNI_Year1-1\ICP\ArrayExample01\ArrayExample04\obj\Debug\net8.0\ref\ArrayExample04.dll
