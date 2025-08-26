@@ -12,12 +12,15 @@
                 number = int.Parse(Console.ReadLine());
             }
             Console.WriteLine();
-            for (int i = 0; i <= number; i++)
-            {
             if (number %  2 == 0)
             {
-                
+                for (int i = 1; i <= 12; i++)
+                {
+                    Console.WriteLine($"{i} x {number} = {i*number}");
+                }
             } else
+            {
+                for (int i = 1; i <= number; i++)
                 {
                     Console.WriteLine("I Love C#");
                 }

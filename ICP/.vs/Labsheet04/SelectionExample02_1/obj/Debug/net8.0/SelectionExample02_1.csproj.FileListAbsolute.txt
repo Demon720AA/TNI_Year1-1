@@ -1,0 +1,14 @@
+D:\TNI_Year1-1\ICP\Labsheet04\SelectionExample02_1\bin\Debug\net8.0\SelectionExample02_1.exe
+D:\TNI_Year1-1\ICP\Labsheet04\SelectionExample02_1\bin\Debug\net8.0\SelectionExample02_1.deps.json
+D:\TNI_Year1-1\ICP\Labsheet04\SelectionExample02_1\bin\Debug\net8.0\SelectionExample02_1.runtimeconfig.json
+D:\TNI_Year1-1\ICP\Labsheet04\SelectionExample02_1\bin\Debug\net8.0\SelectionExample02_1.dll
+D:\TNI_Year1-1\ICP\Labsheet04\SelectionExample02_1\bin\Debug\net8.0\SelectionExample02_1.pdb
+D:\TNI_Year1-1\ICP\Labsheet04\SelectionExample02_1\obj\Debug\net8.0\SelectionExample02_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\TNI_Year1-1\ICP\Labsheet04\SelectionExample02_1\obj\Debug\net8.0\SelectionExample02_1.AssemblyInfoInputs.cache
+D:\TNI_Year1-1\ICP\Labsheet04\SelectionExample02_1\obj\Debug\net8.0\SelectionExample02_1.AssemblyInfo.cs
+D:\TNI_Year1-1\ICP\Labsheet04\SelectionExample02_1\obj\Debug\net8.0\SelectionExample02_1.csproj.CoreCompileInputs.cache
+D:\TNI_Year1-1\ICP\Labsheet04\SelectionExample02_1\obj\Debug\net8.0\SelectionExample02_1.dll
+D:\TNI_Year1-1\ICP\Labsheet04\SelectionExample02_1\obj\Debug\net8.0\refint\SelectionExample02_1.dll
+D:\TNI_Year1-1\ICP\Labsheet04\SelectionExample02_1\obj\Debug\net8.0\SelectionExample02_1.pdb
+D:\TNI_Year1-1\ICP\Labsheet04\SelectionExample02_1\obj\Debug\net8.0\SelectionExample02_1.genruntimeconfig.cache
+D:\TNI_Year1-1\ICP\Labsheet04\SelectionExample02_1\obj\Debug\net8.0\ref\SelectionExample02_1.dll
