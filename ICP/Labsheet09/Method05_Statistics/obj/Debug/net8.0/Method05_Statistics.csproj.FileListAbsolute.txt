@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 D:\TNI_Year1-1\ICP\Labsheet09\Method05_Statistics\bin\Debug\net8.0\Method05_Statistics.exe
 D:\TNI_Year1-1\ICP\Labsheet09\Method05_Statistics\bin\Debug\net8.0\Method05_Statistics.deps.json
 D:\TNI_Year1-1\ICP\Labsheet09\Method05_Statistics\bin\Debug\net8.0\Method05_Statistics.runtimeconfig.json
@@ -13,6 +14,22 @@ D:\TNI_Year1-1\ICP\Labsheet09\Method05_Statistics\obj\Debug\net8.0\refint\Method
 D:\TNI_Year1-1\ICP\Labsheet09\Method05_Statistics\obj\Debug\net8.0\Method05_Statistics.pdb
 D:\TNI_Year1-1\ICP\Labsheet09\Method05_Statistics\obj\Debug\net8.0\Method05_Statistics.genruntimeconfig.cache
 D:\TNI_Year1-1\ICP\Labsheet09\Method05_Statistics\obj\Debug\net8.0\ref\Method05_Statistics.dll
+=======
+D:\TNI_Year1-1\ICP\Labsheet09\Method05_Statistics\bin\Debug\net8.0\Method05_Statistics.exe
+D:\TNI_Year1-1\ICP\Labsheet09\Method05_Statistics\bin\Debug\net8.0\Method05_Statistics.deps.json
+D:\TNI_Year1-1\ICP\Labsheet09\Method05_Statistics\bin\Debug\net8.0\Method05_Statistics.runtimeconfig.json
+D:\TNI_Year1-1\ICP\Labsheet09\Method05_Statistics\bin\Debug\net8.0\Method05_Statistics.dll
+D:\TNI_Year1-1\ICP\Labsheet09\Method05_Statistics\bin\Debug\net8.0\Method05_Statistics.pdb
+D:\TNI_Year1-1\ICP\Labsheet09\Method05_Statistics\obj\Debug\net8.0\Method05_Statistics.GeneratedMSBuildEditorConfig.editorconfig
+D:\TNI_Year1-1\ICP\Labsheet09\Method05_Statistics\obj\Debug\net8.0\Method05_Statistics.AssemblyInfoInputs.cache
+D:\TNI_Year1-1\ICP\Labsheet09\Method05_Statistics\obj\Debug\net8.0\Method05_Statistics.AssemblyInfo.cs
+D:\TNI_Year1-1\ICP\Labsheet09\Method05_Statistics\obj\Debug\net8.0\Method05_Statistics.csproj.CoreCompileInputs.cache
+D:\TNI_Year1-1\ICP\Labsheet09\Method05_Statistics\obj\Debug\net8.0\Method05_Statistics.dll
+D:\TNI_Year1-1\ICP\Labsheet09\Method05_Statistics\obj\Debug\net8.0\refint\Method05_Statistics.dll
+D:\TNI_Year1-1\ICP\Labsheet09\Method05_Statistics\obj\Debug\net8.0\Method05_Statistics.pdb
+D:\TNI_Year1-1\ICP\Labsheet09\Method05_Statistics\obj\Debug\net8.0\Method05_Statistics.genruntimeconfig.cache
+D:\TNI_Year1-1\ICP\Labsheet09\Method05_Statistics\obj\Debug\net8.0\ref\Method05_Statistics.dll
+>>>>>>> 22adc4b184a345020fe652716d36de13deaa9b98
 =======
 D:\TNI_Year1-1\ICP\Labsheet09\Method05_Statistics\bin\Debug\net8.0\Method05_Statistics.exe
 D:\TNI_Year1-1\ICP\Labsheet09\Method05_Statistics\bin\Debug\net8.0\Method05_Statistics.deps.json

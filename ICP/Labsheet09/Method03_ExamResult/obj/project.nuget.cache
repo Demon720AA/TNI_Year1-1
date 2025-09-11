@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 {
   "version": 2,
   "dgSpecHash": "RIZdE6sYafw=",
@@ -6,6 +7,15 @@
   "projectFilePath": "D:\\TNI_Year1-1\\ICP\\Labsheet09\\Method03_ExamResult\\Method03_ExamResult.csproj",
   "expectedPackageFiles": [],
   "logs": []
+=======
+{
+  "version": 2,
+  "dgSpecHash": "/3RYKKk6ydg=",
+  "success": true,
+  "projectFilePath": "D:\\TNI_Year1-1\\ICP\\Labsheet09\\Method03_ExamResult\\Method03_ExamResult.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+>>>>>>> 22adc4b184a345020fe652716d36de13deaa9b98
 =======
 {
   "version": 2,
