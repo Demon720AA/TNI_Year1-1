@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 D:\TNI_Year1-1\ICP\Labsheet09\Method06_BmiCategory\bin\Debug\net8.0\Method06_BmiCategory.exe
 D:\TNI_Year1-1\ICP\Labsheet09\Method06_BmiCategory\bin\Debug\net8.0\Method06_BmiCategory.deps.json
 D:\TNI_Year1-1\ICP\Labsheet09\Method06_BmiCategory\bin\Debug\net8.0\Method06_BmiCategory.runtimeconfig.json
@@ -12,3 +13,19 @@ D:\TNI_Year1-1\ICP\Labsheet09\Method06_BmiCategory\obj\Debug\net8.0\refint\Metho
 D:\TNI_Year1-1\ICP\Labsheet09\Method06_BmiCategory\obj\Debug\net8.0\Method06_BmiCategory.pdb
 D:\TNI_Year1-1\ICP\Labsheet09\Method06_BmiCategory\obj\Debug\net8.0\Method06_BmiCategory.genruntimeconfig.cache
 D:\TNI_Year1-1\ICP\Labsheet09\Method06_BmiCategory\obj\Debug\net8.0\ref\Method06_BmiCategory.dll
+=======
+D:\TNI_Year1-1\ICP\Labsheet09\Method06_BmiCategory\bin\Debug\net8.0\Method06_BmiCategory.exe
+D:\TNI_Year1-1\ICP\Labsheet09\Method06_BmiCategory\bin\Debug\net8.0\Method06_BmiCategory.deps.json
+D:\TNI_Year1-1\ICP\Labsheet09\Method06_BmiCategory\bin\Debug\net8.0\Method06_BmiCategory.runtimeconfig.json
+D:\TNI_Year1-1\ICP\Labsheet09\Method06_BmiCategory\bin\Debug\net8.0\Method06_BmiCategory.dll
+D:\TNI_Year1-1\ICP\Labsheet09\Method06_BmiCategory\bin\Debug\net8.0\Method06_BmiCategory.pdb
+D:\TNI_Year1-1\ICP\Labsheet09\Method06_BmiCategory\obj\Debug\net8.0\Method06_BmiCategory.GeneratedMSBuildEditorConfig.editorconfig
+D:\TNI_Year1-1\ICP\Labsheet09\Method06_BmiCategory\obj\Debug\net8.0\Method06_BmiCategory.AssemblyInfoInputs.cache
+D:\TNI_Year1-1\ICP\Labsheet09\Method06_BmiCategory\obj\Debug\net8.0\Method06_BmiCategory.AssemblyInfo.cs
+D:\TNI_Year1-1\ICP\Labsheet09\Method06_BmiCategory\obj\Debug\net8.0\Method06_BmiCategory.csproj.CoreCompileInputs.cache
+D:\TNI_Year1-1\ICP\Labsheet09\Method06_BmiCategory\obj\Debug\net8.0\Method06_BmiCategory.dll
+D:\TNI_Year1-1\ICP\Labsheet09\Method06_BmiCategory\obj\Debug\net8.0\refint\Method06_BmiCategory.dll
+D:\TNI_Year1-1\ICP\Labsheet09\Method06_BmiCategory\obj\Debug\net8.0\Method06_BmiCategory.pdb
+D:\TNI_Year1-1\ICP\Labsheet09\Method06_BmiCategory\obj\Debug\net8.0\Method06_BmiCategory.genruntimeconfig.cache
+D:\TNI_Year1-1\ICP\Labsheet09\Method06_BmiCategory\obj\Debug\net8.0\ref\Method06_BmiCategory.dll
+>>>>>>> 22adc4b184a345020fe652716d36de13deaa9b98
