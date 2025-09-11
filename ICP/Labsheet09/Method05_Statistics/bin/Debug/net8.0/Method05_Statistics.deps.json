@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Method05_Statistics/1.0.0": {
+        "runtime": {
+          "Method05_Statistics.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Method05_Statistics/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

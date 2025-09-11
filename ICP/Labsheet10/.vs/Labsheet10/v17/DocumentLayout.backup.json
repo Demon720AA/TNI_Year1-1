@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TNI_Year1-1\\ICP\\Labsheet10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3CCA313-4E5D-4F54-9115-02CBA7BB9B51}|Method05_SeeAdvisor\\Method05_SeeAdvisor.csproj|d:\\tni_year1-1\\icp\\labsheet10\\method05_seeadvisor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3CCA313-4E5D-4F54-9115-02CBA7BB9B51}|Method05_SeeAdvisor\\Method05_SeeAdvisor.csproj|solutionrelative:method05_seeadvisor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003C94CE-DE7F-4711-97E8-81DEB45CE1D8}|Method04_AdviseeByGender\\Method04_AdviseeByGender.csproj|d:\\tni_year1-1\\icp\\labsheet10\\method04_adviseebygender\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{003C94CE-DE7F-4711-97E8-81DEB45CE1D8}|Method04_AdviseeByGender\\Method04_AdviseeByGender.csproj|solutionrelative:method04_adviseebygender\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ADF2212-C60E-47F4-91D6-2AEED481B87F}|Method03_GPA\\Method03_GPA.csproj|d:\\tni_year1-1\\icp\\labsheet10\\method03_gpa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ADF2212-C60E-47F4-91D6-2AEED481B87F}|Method03_GPA\\Method03_GPA.csproj|solutionrelative:method03_gpa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF25C51-8FBA-4754-BD56-D938B6B1D14F}|MethodExample3\\MethodExample3.csproj|d:\\tni_year1-1\\icp\\labsheet10\\methodexample3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAF25C51-8FBA-4754-BD56-D938B6B1D14F}|MethodExample3\\MethodExample3.csproj|solutionrelative:methodexample3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4869065-EACD-44A8-A7CB-981DED53D539}|MethodExample2\\MethodExample2.csproj|d:\\tni_year1-1\\icp\\labsheet10\\methodexample2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4869065-EACD-44A8-A7CB-981DED53D539}|MethodExample2\\MethodExample2.csproj|solutionrelative:methodexample2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA03152-3B9E-42C8-9CBF-9B6AA8831D89}|MethodExample1\\MethodExample1.csproj|d:\\tni_year1-1\\icp\\labsheet10\\methodexample1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA03152-3B9E-42C8-9CBF-9B6AA8831D89}|MethodExample1\\MethodExample1.csproj|solutionrelative:methodexample1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47E5E05F-48F4-4E04-8B0B-9FCB28B8DE7A}|Labsheet10\\Labsheet10.csproj|d:\\tni_year1-1\\icp\\labsheet10\\labsheet10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47E5E05F-48F4-4E04-8B0B-9FCB28B8DE7A}|Labsheet10\\Labsheet10.csproj|solutionrelative:labsheet10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TNI_Year1-1\\ICP\\Labsheet10\\Method03_GPA\\Program.cs",
+              "RelativeDocumentMoniker": "Method03_GPA\\Program.cs",
+              "ToolTip": "D:\\TNI_Year1-1\\ICP\\Labsheet10\\Method03_GPA\\Program.cs",
+              "RelativeToolTip": "Method03_GPA\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T07:37:27.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TNI_Year1-1\\ICP\\Labsheet10\\Method04_AdviseeByGender\\Program.cs",
+              "RelativeDocumentMoniker": "Method04_AdviseeByGender\\Program.cs",
+              "ToolTip": "D:\\TNI_Year1-1\\ICP\\Labsheet10\\Method04_AdviseeByGender\\Program.cs",
+              "RelativeToolTip": "Method04_AdviseeByGender\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwBgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T07:05:39.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TNI_Year1-1\\ICP\\Labsheet10\\Method05_SeeAdvisor\\Program.cs",
+              "RelativeDocumentMoniker": "Method05_SeeAdvisor\\Program.cs",
+              "ToolTip": "D:\\TNI_Year1-1\\ICP\\Labsheet10\\Method05_SeeAdvisor\\Program.cs",
+              "RelativeToolTip": "Method05_SeeAdvisor\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T08:04:58.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TNI_Year1-1\\ICP\\Labsheet10\\MethodExample3\\Program.cs",
+              "RelativeDocumentMoniker": "MethodExample3\\Program.cs",
+              "ToolTip": "D:\\TNI_Year1-1\\ICP\\Labsheet10\\MethodExample3\\Program.cs",
+              "RelativeToolTip": "MethodExample3\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwCQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T06:35:55.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TNI_Year1-1\\ICP\\Labsheet10\\MethodExample2\\Program.cs",
+              "RelativeDocumentMoniker": "MethodExample2\\Program.cs",
+              "ToolTip": "D:\\TNI_Year1-1\\ICP\\Labsheet10\\MethodExample2\\Program.cs",
+              "RelativeToolTip": "MethodExample2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T06:17:46.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TNI_Year1-1\\ICP\\Labsheet10\\MethodExample1\\Program.cs",
+              "RelativeDocumentMoniker": "MethodExample1\\Program.cs",
+              "ToolTip": "D:\\TNI_Year1-1\\ICP\\Labsheet10\\MethodExample1\\Program.cs",
+              "RelativeToolTip": "MethodExample1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T06:11:10.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TNI_Year1-1\\ICP\\Labsheet10\\Labsheet10\\Program.cs",
+              "RelativeDocumentMoniker": "Labsheet10\\Program.cs",
+              "ToolTip": "D:\\TNI_Year1-1\\ICP\\Labsheet10\\Labsheet10\\Program.cs",
+              "RelativeToolTip": "Labsheet10\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T06:10:05.175Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

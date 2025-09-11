@@ -1,0 +1,14 @@
+D:\TNI_Year1-1\ICP\Labsheet09\Method03_ExamResult\bin\Debug\net8.0\Method03_ExamResult.exe
+D:\TNI_Year1-1\ICP\Labsheet09\Method03_ExamResult\bin\Debug\net8.0\Method03_ExamResult.deps.json
+D:\TNI_Year1-1\ICP\Labsheet09\Method03_ExamResult\bin\Debug\net8.0\Method03_ExamResult.runtimeconfig.json
+D:\TNI_Year1-1\ICP\Labsheet09\Method03_ExamResult\bin\Debug\net8.0\Method03_ExamResult.dll
+D:\TNI_Year1-1\ICP\Labsheet09\Method03_ExamResult\bin\Debug\net8.0\Method03_ExamResult.pdb
+D:\TNI_Year1-1\ICP\Labsheet09\Method03_ExamResult\obj\Debug\net8.0\Method03_ExamResult.GeneratedMSBuildEditorConfig.editorconfig
+D:\TNI_Year1-1\ICP\Labsheet09\Method03_ExamResult\obj\Debug\net8.0\Method03_ExamResult.AssemblyInfoInputs.cache
+D:\TNI_Year1-1\ICP\Labsheet09\Method03_ExamResult\obj\Debug\net8.0\Method03_ExamResult.AssemblyInfo.cs
+D:\TNI_Year1-1\ICP\Labsheet09\Method03_ExamResult\obj\Debug\net8.0\Method03_ExamResult.csproj.CoreCompileInputs.cache
+D:\TNI_Year1-1\ICP\Labsheet09\Method03_ExamResult\obj\Debug\net8.0\Method03_ExamResult.dll
+D:\TNI_Year1-1\ICP\Labsheet09\Method03_ExamResult\obj\Debug\net8.0\refint\Method03_ExamResult.dll
+D:\TNI_Year1-1\ICP\Labsheet09\Method03_ExamResult\obj\Debug\net8.0\Method03_ExamResult.pdb
+D:\TNI_Year1-1\ICP\Labsheet09\Method03_ExamResult\obj\Debug\net8.0\Method03_ExamResult.genruntimeconfig.cache
+D:\TNI_Year1-1\ICP\Labsheet09\Method03_ExamResult\obj\Debug\net8.0\ref\Method03_ExamResult.dll

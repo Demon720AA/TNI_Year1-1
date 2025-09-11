@@ -1,0 +1,14 @@
+D:\TNI_Year1-1\ICP\Labsheet10\Method03_GPA\bin\Debug\net8.0\Method03_GPA.exe
+D:\TNI_Year1-1\ICP\Labsheet10\Method03_GPA\bin\Debug\net8.0\Method03_GPA.deps.json
+D:\TNI_Year1-1\ICP\Labsheet10\Method03_GPA\bin\Debug\net8.0\Method03_GPA.runtimeconfig.json
+D:\TNI_Year1-1\ICP\Labsheet10\Method03_GPA\bin\Debug\net8.0\Method03_GPA.dll
+D:\TNI_Year1-1\ICP\Labsheet10\Method03_GPA\bin\Debug\net8.0\Method03_GPA.pdb
+D:\TNI_Year1-1\ICP\Labsheet10\Method03_GPA\obj\Debug\net8.0\Method03_GPA.GeneratedMSBuildEditorConfig.editorconfig
+D:\TNI_Year1-1\ICP\Labsheet10\Method03_GPA\obj\Debug\net8.0\Method03_GPA.AssemblyInfoInputs.cache
+D:\TNI_Year1-1\ICP\Labsheet10\Method03_GPA\obj\Debug\net8.0\Method03_GPA.AssemblyInfo.cs
+D:\TNI_Year1-1\ICP\Labsheet10\Method03_GPA\obj\Debug\net8.0\Method03_GPA.csproj.CoreCompileInputs.cache
+D:\TNI_Year1-1\ICP\Labsheet10\Method03_GPA\obj\Debug\net8.0\Method03_GPA.dll
+D:\TNI_Year1-1\ICP\Labsheet10\Method03_GPA\obj\Debug\net8.0\refint\Method03_GPA.dll
+D:\TNI_Year1-1\ICP\Labsheet10\Method03_GPA\obj\Debug\net8.0\Method03_GPA.pdb
+D:\TNI_Year1-1\ICP\Labsheet10\Method03_GPA\obj\Debug\net8.0\Method03_GPA.genruntimeconfig.cache
+D:\TNI_Year1-1\ICP\Labsheet10\Method03_GPA\obj\Debug\net8.0\ref\Method03_GPA.dll

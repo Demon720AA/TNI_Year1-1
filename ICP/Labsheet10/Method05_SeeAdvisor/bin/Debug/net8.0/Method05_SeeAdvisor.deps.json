@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Method05_SeeAdvisor/1.0.0": {
+        "runtime": {
+          "Method05_SeeAdvisor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Method05_SeeAdvisor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

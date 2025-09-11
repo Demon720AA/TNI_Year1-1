@@ -1,0 +1,14 @@
+D:\TNI_Year1-1\ICP\Labsheet10\Method05_SeeAdvisor\bin\Debug\net8.0\Method05_SeeAdvisor.exe
+D:\TNI_Year1-1\ICP\Labsheet10\Method05_SeeAdvisor\bin\Debug\net8.0\Method05_SeeAdvisor.deps.json
+D:\TNI_Year1-1\ICP\Labsheet10\Method05_SeeAdvisor\bin\Debug\net8.0\Method05_SeeAdvisor.runtimeconfig.json
+D:\TNI_Year1-1\ICP\Labsheet10\Method05_SeeAdvisor\bin\Debug\net8.0\Method05_SeeAdvisor.dll
+D:\TNI_Year1-1\ICP\Labsheet10\Method05_SeeAdvisor\bin\Debug\net8.0\Method05_SeeAdvisor.pdb
+D:\TNI_Year1-1\ICP\Labsheet10\Method05_SeeAdvisor\obj\Debug\net8.0\Method05_SeeAdvisor.GeneratedMSBuildEditorConfig.editorconfig
+D:\TNI_Year1-1\ICP\Labsheet10\Method05_SeeAdvisor\obj\Debug\net8.0\Method05_SeeAdvisor.AssemblyInfoInputs.cache
+D:\TNI_Year1-1\ICP\Labsheet10\Method05_SeeAdvisor\obj\Debug\net8.0\Method05_SeeAdvisor.AssemblyInfo.cs
+D:\TNI_Year1-1\ICP\Labsheet10\Method05_SeeAdvisor\obj\Debug\net8.0\Method05_SeeAdvisor.csproj.CoreCompileInputs.cache
+D:\TNI_Year1-1\ICP\Labsheet10\Method05_SeeAdvisor\obj\Debug\net8.0\Method05_SeeAdvisor.dll
+D:\TNI_Year1-1\ICP\Labsheet10\Method05_SeeAdvisor\obj\Debug\net8.0\refint\Method05_SeeAdvisor.dll
+D:\TNI_Year1-1\ICP\Labsheet10\Method05_SeeAdvisor\obj\Debug\net8.0\Method05_SeeAdvisor.pdb
+D:\TNI_Year1-1\ICP\Labsheet10\Method05_SeeAdvisor\obj\Debug\net8.0\Method05_SeeAdvisor.genruntimeconfig.cache
+D:\TNI_Year1-1\ICP\Labsheet10\Method05_SeeAdvisor\obj\Debug\net8.0\ref\Method05_SeeAdvisor.dll

@@ -1,0 +1,14 @@
+D:\TNI_Year1-1\ICP\Labsheet10\Method04_AdviseeByGender\bin\Debug\net8.0\Method04_AdviseeByGender.exe
+D:\TNI_Year1-1\ICP\Labsheet10\Method04_AdviseeByGender\bin\Debug\net8.0\Method04_AdviseeByGender.deps.json
+D:\TNI_Year1-1\ICP\Labsheet10\Method04_AdviseeByGender\bin\Debug\net8.0\Method04_AdviseeByGender.runtimeconfig.json
+D:\TNI_Year1-1\ICP\Labsheet10\Method04_AdviseeByGender\bin\Debug\net8.0\Method04_AdviseeByGender.dll
+D:\TNI_Year1-1\ICP\Labsheet10\Method04_AdviseeByGender\bin\Debug\net8.0\Method04_AdviseeByGender.pdb
+D:\TNI_Year1-1\ICP\Labsheet10\Method04_AdviseeByGender\obj\Debug\net8.0\Method04_AdviseeByGender.GeneratedMSBuildEditorConfig.editorconfig
+D:\TNI_Year1-1\ICP\Labsheet10\Method04_AdviseeByGender\obj\Debug\net8.0\Method04_AdviseeByGender.AssemblyInfoInputs.cache
+D:\TNI_Year1-1\ICP\Labsheet10\Method04_AdviseeByGender\obj\Debug\net8.0\Method04_AdviseeByGender.AssemblyInfo.cs
+D:\TNI_Year1-1\ICP\Labsheet10\Method04_AdviseeByGender\obj\Debug\net8.0\Method04_AdviseeByGender.csproj.CoreCompileInputs.cache
+D:\TNI_Year1-1\ICP\Labsheet10\Method04_AdviseeByGender\obj\Debug\net8.0\Method04_AdviseeByGender.dll
+D:\TNI_Year1-1\ICP\Labsheet10\Method04_AdviseeByGender\obj\Debug\net8.0\refint\Method04_AdviseeByGender.dll
+D:\TNI_Year1-1\ICP\Labsheet10\Method04_AdviseeByGender\obj\Debug\net8.0\Method04_AdviseeByGender.pdb
+D:\TNI_Year1-1\ICP\Labsheet10\Method04_AdviseeByGender\obj\Debug\net8.0\Method04_AdviseeByGender.genruntimeconfig.cache
+D:\TNI_Year1-1\ICP\Labsheet10\Method04_AdviseeByGender\obj\Debug\net8.0\ref\Method04_AdviseeByGender.dll

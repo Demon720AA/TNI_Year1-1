@@ -1,0 +1,14 @@
+D:\TNI_Year1-1\ICP\Labsheet10\MethodExample3\bin\Debug\net8.0\MethodExample3.exe
+D:\TNI_Year1-1\ICP\Labsheet10\MethodExample3\bin\Debug\net8.0\MethodExample3.deps.json
+D:\TNI_Year1-1\ICP\Labsheet10\MethodExample3\bin\Debug\net8.0\MethodExample3.runtimeconfig.json
+D:\TNI_Year1-1\ICP\Labsheet10\MethodExample3\bin\Debug\net8.0\MethodExample3.dll
+D:\TNI_Year1-1\ICP\Labsheet10\MethodExample3\bin\Debug\net8.0\MethodExample3.pdb
+D:\TNI_Year1-1\ICP\Labsheet10\MethodExample3\obj\Debug\net8.0\MethodExample3.GeneratedMSBuildEditorConfig.editorconfig
+D:\TNI_Year1-1\ICP\Labsheet10\MethodExample3\obj\Debug\net8.0\MethodExample3.AssemblyInfoInputs.cache
+D:\TNI_Year1-1\ICP\Labsheet10\MethodExample3\obj\Debug\net8.0\MethodExample3.AssemblyInfo.cs
+D:\TNI_Year1-1\ICP\Labsheet10\MethodExample3\obj\Debug\net8.0\MethodExample3.csproj.CoreCompileInputs.cache
+D:\TNI_Year1-1\ICP\Labsheet10\MethodExample3\obj\Debug\net8.0\MethodExample3.dll
+D:\TNI_Year1-1\ICP\Labsheet10\MethodExample3\obj\Debug\net8.0\refint\MethodExample3.dll
+D:\TNI_Year1-1\ICP\Labsheet10\MethodExample3\obj\Debug\net8.0\MethodExample3.pdb
+D:\TNI_Year1-1\ICP\Labsheet10\MethodExample3\obj\Debug\net8.0\MethodExample3.genruntimeconfig.cache
+D:\TNI_Year1-1\ICP\Labsheet10\MethodExample3\obj\Debug\net8.0\ref\MethodExample3.dll
