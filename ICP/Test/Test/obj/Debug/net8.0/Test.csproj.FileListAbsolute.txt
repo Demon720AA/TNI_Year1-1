@@ -1,0 +1,14 @@
+D:\TNI_Year1-1\ICP\Test\Test\bin\Debug\net8.0\Test.exe
+D:\TNI_Year1-1\ICP\Test\Test\bin\Debug\net8.0\Test.deps.json
+D:\TNI_Year1-1\ICP\Test\Test\bin\Debug\net8.0\Test.runtimeconfig.json
+D:\TNI_Year1-1\ICP\Test\Test\bin\Debug\net8.0\Test.dll
+D:\TNI_Year1-1\ICP\Test\Test\bin\Debug\net8.0\Test.pdb
+D:\TNI_Year1-1\ICP\Test\Test\obj\Debug\net8.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\TNI_Year1-1\ICP\Test\Test\obj\Debug\net8.0\Test.AssemblyInfoInputs.cache
+D:\TNI_Year1-1\ICP\Test\Test\obj\Debug\net8.0\Test.AssemblyInfo.cs
+D:\TNI_Year1-1\ICP\Test\Test\obj\Debug\net8.0\Test.csproj.CoreCompileInputs.cache
+D:\TNI_Year1-1\ICP\Test\Test\obj\Debug\net8.0\Test.dll
+D:\TNI_Year1-1\ICP\Test\Test\obj\Debug\net8.0\refint\Test.dll
+D:\TNI_Year1-1\ICP\Test\Test\obj\Debug\net8.0\Test.pdb
+D:\TNI_Year1-1\ICP\Test\Test\obj\Debug\net8.0\Test.genruntimeconfig.cache
+D:\TNI_Year1-1\ICP\Test\Test\obj\Debug\net8.0\ref\Test.dll
