@@ -1,0 +1,14 @@
+D:\TNI_Year1-1\ICP\Labsheet11\ReadProductsFromFile\bin\Debug\net9.0\ReadProductsFromFile.exe
+D:\TNI_Year1-1\ICP\Labsheet11\ReadProductsFromFile\bin\Debug\net9.0\ReadProductsFromFile.deps.json
+D:\TNI_Year1-1\ICP\Labsheet11\ReadProductsFromFile\bin\Debug\net9.0\ReadProductsFromFile.runtimeconfig.json
+D:\TNI_Year1-1\ICP\Labsheet11\ReadProductsFromFile\bin\Debug\net9.0\ReadProductsFromFile.dll
+D:\TNI_Year1-1\ICP\Labsheet11\ReadProductsFromFile\bin\Debug\net9.0\ReadProductsFromFile.pdb
+D:\TNI_Year1-1\ICP\Labsheet11\ReadProductsFromFile\obj\Debug\net9.0\ReadProductsFromFile.GeneratedMSBuildEditorConfig.editorconfig
+D:\TNI_Year1-1\ICP\Labsheet11\ReadProductsFromFile\obj\Debug\net9.0\ReadProductsFromFile.AssemblyInfoInputs.cache
+D:\TNI_Year1-1\ICP\Labsheet11\ReadProductsFromFile\obj\Debug\net9.0\ReadProductsFromFile.AssemblyInfo.cs
+D:\TNI_Year1-1\ICP\Labsheet11\ReadProductsFromFile\obj\Debug\net9.0\ReadProductsFromFile.csproj.CoreCompileInputs.cache
+D:\TNI_Year1-1\ICP\Labsheet11\ReadProductsFromFile\obj\Debug\net9.0\ReadProductsFromFile.dll
+D:\TNI_Year1-1\ICP\Labsheet11\ReadProductsFromFile\obj\Debug\net9.0\refint\ReadProductsFromFile.dll
+D:\TNI_Year1-1\ICP\Labsheet11\ReadProductsFromFile\obj\Debug\net9.0\ReadProductsFromFile.pdb
+D:\TNI_Year1-1\ICP\Labsheet11\ReadProductsFromFile\obj\Debug\net9.0\ReadProductsFromFile.genruntimeconfig.cache
+D:\TNI_Year1-1\ICP\Labsheet11\ReadProductsFromFile\obj\Debug\net9.0\ref\ReadProductsFromFile.dll

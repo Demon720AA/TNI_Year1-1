@@ -1,0 +1,38 @@
+1813170014,Mr.,Phuripat Bungwai,2
+1813170022,Mr.,Suttibet Attaso,2
+1813170048,Mr.,Tanva Teamthog,2
+1913140016,Mr.,Ratiphol Thammawattana,2
+1913110019,Mr.,Korndanai Ananjinda,2
+1913140024,Mr.,Pavorn Sukhsancharoen,2
+59121100-8,Mr.,Sarun Kitcharoen,2
+59121101-6,Mr.,Pawarin Kunanake,2
+2213110022,Mr.,Phoodis Chotchuang,1
+2213110030,Mr.,Motonori Kono,1
+2213110055,Miss,Apsorn Poiem,1
+2213110162,Miss,Lada Watanadilogkul,1
+2213110196,Mr.,Jirapat Anantasirijinda,1
+2213110097,Miss,Chanidapha Photharam,1
+2213110436,Mr.,Chittawon Khiri-ekasathit,1
+2213110535,Mr.,Niraphat Konghuayrob,1
+2213110204,Mr.,Chonnanut Petchyotin,1
+2213110014,Miss,Yada Chuenta,2
+2213110048,Mr.,Siravit Siriviboon,2
+2213110071,Mr.,Thanpisit Chanarsa,1
+2213110113,Mr.,Nattawut Worraratphaisarn,1
+2213110139,Mr.,Tatpoln Silpsrikul,2
+2213110212,Mr.,Chayapon Udompaiboonlarp,1
+2213110287,Mr.,Pitchayaphum Rukjring,2
+2213110329,Mr.,Purinut Orachunwong,2
+2213110345,Mr.,Suphawich Promjaroen,2
+2213110378,Miss,Achiraya Phuangsombut,1
+1813170014,Mr.,Phuripat Bungwai,1
+1813170022,Mr.,Suttibet Attaso,1
+1813170048,Mr.,Tanva Teamthog,1
+1913140016,Mr.,Ratiphol Thammawattana,2
+1913110019,Mr.,Korndanai Ananjinda,1
+1913140024,Mr.,Pavorn Sukhsancharoen,2
+2213110386,Mr.,Kriddanai Berkbandee,1
+2213110402,Mr.,Jaturaporn Na Ayutthaya,2
+2213110410,Miss,Chonticha Gorpanna,1
+
+

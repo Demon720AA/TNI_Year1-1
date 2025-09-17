@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ReadProductsFromFile/1.0.0": {
+        "runtime": {
+          "ReadProductsFromFile.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ReadProductsFromFile/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

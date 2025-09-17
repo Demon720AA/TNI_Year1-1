@@ -1,0 +1,13 @@
+24121100-8,Mr.,Sarun Kitcharoen,1,2.00
+24121101-6,Mr.,Pawarin Kunanake,1,3.00
+24121103-2,Mr.,Pattarapong Krairaveevit,2,3.29
+24121109-9,Mr.,Ponchai Tantrasai,2,2.01
+24121802-9,Mr.,Roongrot Siriparkornchai,2,2.04
+2213110022,Mr.,Phoodis Chotchuang,1,2.45
+2213110030,Mr.,Motonori Kono,1,3.45
+2213110055,Miss,Apsorn Poiem,1,3.00
+2213110162,Miss,Lada Watanadilogkul,1,1.97
+2213110196,Mr.,Jirapat Anantasirijinda,1,2.49
+2213110097,Miss,Chanidapha Photharam,1,3.55
+2213110436,Mr.,Chittawon Khiri-ekasathit,2,3.88
+2213110535,Mr.,Niraphat Konghuayrob,2,3.96

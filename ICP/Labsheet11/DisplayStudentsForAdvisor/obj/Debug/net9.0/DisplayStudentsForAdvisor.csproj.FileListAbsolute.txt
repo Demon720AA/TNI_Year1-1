@@ -1,0 +1,14 @@
+D:\TNI_Year1-1\ICP\Labsheet11\DisplayStudentsForAdvisor\bin\Debug\net9.0\DisplayStudentsForAdvisor.exe
+D:\TNI_Year1-1\ICP\Labsheet11\DisplayStudentsForAdvisor\bin\Debug\net9.0\DisplayStudentsForAdvisor.deps.json
+D:\TNI_Year1-1\ICP\Labsheet11\DisplayStudentsForAdvisor\bin\Debug\net9.0\DisplayStudentsForAdvisor.runtimeconfig.json
+D:\TNI_Year1-1\ICP\Labsheet11\DisplayStudentsForAdvisor\bin\Debug\net9.0\DisplayStudentsForAdvisor.dll
+D:\TNI_Year1-1\ICP\Labsheet11\DisplayStudentsForAdvisor\bin\Debug\net9.0\DisplayStudentsForAdvisor.pdb
+D:\TNI_Year1-1\ICP\Labsheet11\DisplayStudentsForAdvisor\obj\Debug\net9.0\DisplayStudentsForAdvisor.GeneratedMSBuildEditorConfig.editorconfig
+D:\TNI_Year1-1\ICP\Labsheet11\DisplayStudentsForAdvisor\obj\Debug\net9.0\DisplayStudentsForAdvisor.AssemblyInfoInputs.cache
+D:\TNI_Year1-1\ICP\Labsheet11\DisplayStudentsForAdvisor\obj\Debug\net9.0\DisplayStudentsForAdvisor.AssemblyInfo.cs
+D:\TNI_Year1-1\ICP\Labsheet11\DisplayStudentsForAdvisor\obj\Debug\net9.0\DisplayStudentsForAdvisor.csproj.CoreCompileInputs.cache
+D:\TNI_Year1-1\ICP\Labsheet11\DisplayStudentsForAdvisor\obj\Debug\net9.0\DisplayStudentsForAdvisor.dll
+D:\TNI_Year1-1\ICP\Labsheet11\DisplayStudentsForAdvisor\obj\Debug\net9.0\refint\DisplayStudentsForAdvisor.dll
+D:\TNI_Year1-1\ICP\Labsheet11\DisplayStudentsForAdvisor\obj\Debug\net9.0\DisplayStudentsForAdvisor.pdb
+D:\TNI_Year1-1\ICP\Labsheet11\DisplayStudentsForAdvisor\obj\Debug\net9.0\DisplayStudentsForAdvisor.genruntimeconfig.cache
+D:\TNI_Year1-1\ICP\Labsheet11\DisplayStudentsForAdvisor\obj\Debug\net9.0\ref\DisplayStudentsForAdvisor.dll

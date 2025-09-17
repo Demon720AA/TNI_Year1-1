@@ -1,0 +1,14 @@
+D:\TNI_Year1-1\ICP\Labsheet11\SearchBookPriceByTitle\bin\Debug\net9.0\SearchBookPriceByTitle.exe
+D:\TNI_Year1-1\ICP\Labsheet11\SearchBookPriceByTitle\bin\Debug\net9.0\SearchBookPriceByTitle.deps.json
+D:\TNI_Year1-1\ICP\Labsheet11\SearchBookPriceByTitle\bin\Debug\net9.0\SearchBookPriceByTitle.runtimeconfig.json
+D:\TNI_Year1-1\ICP\Labsheet11\SearchBookPriceByTitle\bin\Debug\net9.0\SearchBookPriceByTitle.dll
+D:\TNI_Year1-1\ICP\Labsheet11\SearchBookPriceByTitle\bin\Debug\net9.0\SearchBookPriceByTitle.pdb
+D:\TNI_Year1-1\ICP\Labsheet11\SearchBookPriceByTitle\obj\Debug\net9.0\SearchBookPriceByTitle.GeneratedMSBuildEditorConfig.editorconfig
+D:\TNI_Year1-1\ICP\Labsheet11\SearchBookPriceByTitle\obj\Debug\net9.0\SearchBookPriceByTitle.AssemblyInfoInputs.cache
+D:\TNI_Year1-1\ICP\Labsheet11\SearchBookPriceByTitle\obj\Debug\net9.0\SearchBookPriceByTitle.AssemblyInfo.cs
+D:\TNI_Year1-1\ICP\Labsheet11\SearchBookPriceByTitle\obj\Debug\net9.0\SearchBookPriceByTitle.csproj.CoreCompileInputs.cache
+D:\TNI_Year1-1\ICP\Labsheet11\SearchBookPriceByTitle\obj\Debug\net9.0\SearchBookPriceByTitle.dll
+D:\TNI_Year1-1\ICP\Labsheet11\SearchBookPriceByTitle\obj\Debug\net9.0\refint\SearchBookPriceByTitle.dll
+D:\TNI_Year1-1\ICP\Labsheet11\SearchBookPriceByTitle\obj\Debug\net9.0\SearchBookPriceByTitle.pdb
+D:\TNI_Year1-1\ICP\Labsheet11\SearchBookPriceByTitle\obj\Debug\net9.0\SearchBookPriceByTitle.genruntimeconfig.cache
+D:\TNI_Year1-1\ICP\Labsheet11\SearchBookPriceByTitle\obj\Debug\net9.0\ref\SearchBookPriceByTitle.dll

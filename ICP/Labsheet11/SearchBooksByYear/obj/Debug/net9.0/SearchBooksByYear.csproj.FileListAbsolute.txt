@@ -1,0 +1,14 @@
+D:\TNI_Year1-1\ICP\Labsheet11\SearchBooksByYear\bin\Debug\net9.0\SearchBooksByYear.exe
+D:\TNI_Year1-1\ICP\Labsheet11\SearchBooksByYear\bin\Debug\net9.0\SearchBooksByYear.deps.json
+D:\TNI_Year1-1\ICP\Labsheet11\SearchBooksByYear\bin\Debug\net9.0\SearchBooksByYear.runtimeconfig.json
+D:\TNI_Year1-1\ICP\Labsheet11\SearchBooksByYear\bin\Debug\net9.0\SearchBooksByYear.dll
+D:\TNI_Year1-1\ICP\Labsheet11\SearchBooksByYear\bin\Debug\net9.0\SearchBooksByYear.pdb
+D:\TNI_Year1-1\ICP\Labsheet11\SearchBooksByYear\obj\Debug\net9.0\SearchBooksByYear.GeneratedMSBuildEditorConfig.editorconfig
+D:\TNI_Year1-1\ICP\Labsheet11\SearchBooksByYear\obj\Debug\net9.0\SearchBooksByYear.AssemblyInfoInputs.cache
+D:\TNI_Year1-1\ICP\Labsheet11\SearchBooksByYear\obj\Debug\net9.0\SearchBooksByYear.AssemblyInfo.cs
+D:\TNI_Year1-1\ICP\Labsheet11\SearchBooksByYear\obj\Debug\net9.0\SearchBooksByYear.csproj.CoreCompileInputs.cache
+D:\TNI_Year1-1\ICP\Labsheet11\SearchBooksByYear\obj\Debug\net9.0\SearchBooksByYear.dll
+D:\TNI_Year1-1\ICP\Labsheet11\SearchBooksByYear\obj\Debug\net9.0\refint\SearchBooksByYear.dll
+D:\TNI_Year1-1\ICP\Labsheet11\SearchBooksByYear\obj\Debug\net9.0\SearchBooksByYear.pdb
+D:\TNI_Year1-1\ICP\Labsheet11\SearchBooksByYear\obj\Debug\net9.0\SearchBooksByYear.genruntimeconfig.cache
+D:\TNI_Year1-1\ICP\Labsheet11\SearchBooksByYear\obj\Debug\net9.0\ref\SearchBooksByYear.dll
