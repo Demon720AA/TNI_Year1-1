@@ -1,0 +1,14 @@
+D:\TNI_Year1-1\ICP\Labsheet09\Method04_TemperatureConverter\bin\Debug\net9.0\Method04_TemperatureConverter.exe
+D:\TNI_Year1-1\ICP\Labsheet09\Method04_TemperatureConverter\bin\Debug\net9.0\Method04_TemperatureConverter.deps.json
+D:\TNI_Year1-1\ICP\Labsheet09\Method04_TemperatureConverter\bin\Debug\net9.0\Method04_TemperatureConverter.runtimeconfig.json
+D:\TNI_Year1-1\ICP\Labsheet09\Method04_TemperatureConverter\bin\Debug\net9.0\Method04_TemperatureConverter.dll
+D:\TNI_Year1-1\ICP\Labsheet09\Method04_TemperatureConverter\bin\Debug\net9.0\Method04_TemperatureConverter.pdb
+D:\TNI_Year1-1\ICP\Labsheet09\Method04_TemperatureConverter\obj\Debug\net9.0\Method04_TemperatureConverter.GeneratedMSBuildEditorConfig.editorconfig
+D:\TNI_Year1-1\ICP\Labsheet09\Method04_TemperatureConverter\obj\Debug\net9.0\Method04_TemperatureConverter.AssemblyInfoInputs.cache
+D:\TNI_Year1-1\ICP\Labsheet09\Method04_TemperatureConverter\obj\Debug\net9.0\Method04_TemperatureConverter.AssemblyInfo.cs
+D:\TNI_Year1-1\ICP\Labsheet09\Method04_TemperatureConverter\obj\Debug\net9.0\Method04_TemperatureConverter.csproj.CoreCompileInputs.cache
+D:\TNI_Year1-1\ICP\Labsheet09\Method04_TemperatureConverter\obj\Debug\net9.0\Method04_TemperatureConverter.dll
+D:\TNI_Year1-1\ICP\Labsheet09\Method04_TemperatureConverter\obj\Debug\net9.0\refint\Method04_TemperatureConverter.dll
+D:\TNI_Year1-1\ICP\Labsheet09\Method04_TemperatureConverter\obj\Debug\net9.0\Method04_TemperatureConverter.pdb
+D:\TNI_Year1-1\ICP\Labsheet09\Method04_TemperatureConverter\obj\Debug\net9.0\Method04_TemperatureConverter.genruntimeconfig.cache
+D:\TNI_Year1-1\ICP\Labsheet09\Method04_TemperatureConverter\obj\Debug\net9.0\ref\Method04_TemperatureConverter.dll

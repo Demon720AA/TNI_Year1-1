@@ -1,28 +1,8 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 {
   "version": 2,
-  "dgSpecHash": "PmvTKpa1w50=",
+  "dgSpecHash": "62zyl4sJMNs=",
   "success": true,
   "projectFilePath": "D:\\TNI_Year1-1\\ICP\\Labsheet09\\Method04_TemperatureConverter\\Method04_TemperatureConverter.csproj",
   "expectedPackageFiles": [],
   "logs": []
-=======
-{
-  "version": 2,
-  "dgSpecHash": "46sXz34qVDw=",
-  "success": true,
-  "projectFilePath": "D:\\TNI_Year1-1\\ICP\\Labsheet09\\Method04_TemperatureConverter\\Method04_TemperatureConverter.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
->>>>>>> 22adc4b184a345020fe652716d36de13deaa9b98
-=======
-{
-  "version": 2,
-  "dgSpecHash": "46sXz34qVDw=",
-  "success": true,
-  "projectFilePath": "D:\\TNI_Year1-1\\ICP\\Labsheet09\\Method04_TemperatureConverter\\Method04_TemperatureConverter.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
->>>>>>> 22adc4b184a345020fe652716d36de13deaa9b98
 }
