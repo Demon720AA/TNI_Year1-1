@@ -1,0 +1,14 @@
+D:\TNI_Year1-1\ICP\Labsheet09_edit\Method02_CalculateNumber\bin\Debug\net9.0\Method02_CalculateNumber.exe
+D:\TNI_Year1-1\ICP\Labsheet09_edit\Method02_CalculateNumber\bin\Debug\net9.0\Method02_CalculateNumber.deps.json
+D:\TNI_Year1-1\ICP\Labsheet09_edit\Method02_CalculateNumber\bin\Debug\net9.0\Method02_CalculateNumber.runtimeconfig.json
+D:\TNI_Year1-1\ICP\Labsheet09_edit\Method02_CalculateNumber\bin\Debug\net9.0\Method02_CalculateNumber.dll
+D:\TNI_Year1-1\ICP\Labsheet09_edit\Method02_CalculateNumber\bin\Debug\net9.0\Method02_CalculateNumber.pdb
+D:\TNI_Year1-1\ICP\Labsheet09_edit\Method02_CalculateNumber\obj\Debug\net9.0\Method02_CalculateNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\TNI_Year1-1\ICP\Labsheet09_edit\Method02_CalculateNumber\obj\Debug\net9.0\Method02_CalculateNumber.AssemblyInfoInputs.cache
+D:\TNI_Year1-1\ICP\Labsheet09_edit\Method02_CalculateNumber\obj\Debug\net9.0\Method02_CalculateNumber.AssemblyInfo.cs
+D:\TNI_Year1-1\ICP\Labsheet09_edit\Method02_CalculateNumber\obj\Debug\net9.0\Method02_CalculateNumber.csproj.CoreCompileInputs.cache
+D:\TNI_Year1-1\ICP\Labsheet09_edit\Method02_CalculateNumber\obj\Debug\net9.0\Method02_CalculateNumber.dll
+D:\TNI_Year1-1\ICP\Labsheet09_edit\Method02_CalculateNumber\obj\Debug\net9.0\refint\Method02_CalculateNumber.dll
+D:\TNI_Year1-1\ICP\Labsheet09_edit\Method02_CalculateNumber\obj\Debug\net9.0\Method02_CalculateNumber.pdb
+D:\TNI_Year1-1\ICP\Labsheet09_edit\Method02_CalculateNumber\obj\Debug\net9.0\Method02_CalculateNumber.genruntimeconfig.cache
+D:\TNI_Year1-1\ICP\Labsheet09_edit\Method02_CalculateNumber\obj\Debug\net9.0\ref\Method02_CalculateNumber.dll

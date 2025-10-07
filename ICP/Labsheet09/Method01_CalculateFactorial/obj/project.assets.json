@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TNI_Year1-1\\ICP\\Labsheet09\\Method03_ExamResult\\Method03_ExamResult.csproj",
-      "projectName": "Method03_ExamResult",
-      "projectPath": "D:\\TNI_Year1-1\\ICP\\Labsheet09\\Method03_ExamResult\\Method03_ExamResult.csproj",
+      "projectUniqueName": "D:\\TNI_Year1-1\\ICP\\Labsheet09\\Method01_CalculateFactorial\\Method01_CalculateFactorial.csproj",
+      "projectName": "Method01_CalculateFactorial",
+      "projectPath": "D:\\TNI_Year1-1\\ICP\\Labsheet09\\Method01_CalculateFactorial\\Method01_CalculateFactorial.csproj",
       "packagesPath": "C:\\Users\\aeaey\\.nuget\\packages\\",
-      "outputPath": "D:\\TNI_Year1-1\\ICP\\Labsheet09\\Method03_ExamResult\\obj\\",
+      "outputPath": "D:\\TNI_Year1-1\\ICP\\Labsheet09\\Method01_CalculateFactorial\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
