@@ -1,63 +1,28 @@
-﻿namespace MethodExample3
+﻿namespace MethodExample3;
+
+class Program
 {
-    internal class Program
+    static void Main(string[] args)
     {
-        private const int V = 1;
-
-        static void Main(string[] args)
+        Console.WriteLine("---------------------------------------------");
+        Console.WriteLine("\t\tTNI Delivery");
+        Console.WriteLine("---------------------------------------------");
+        Console.WriteLine("Press 1 : Tokoyaki\t180 Baht.\nPress 2 : Udon\t\t100 Baht.\nPtess 3 : Taiyaki\t250 Baht.\nPress 4 : Calculate");
+        Console.WriteLine("---------------------------------------------");
+        double sum = 0;
+        while (true)
         {
-            DisplayHeader();
-            double totalPrice = CalculateTotalPrice();
-            DisplaySummary(totalPrice);
-            Console.ReadKey();
+            Console.Write("Input the number of menu : ");
+            int menuNum = int.Parse(Console.ReadLine());
+            if (menuNum == 1) sum += 180;
+            else if (menuNum == 2) sum += 100;
+            else if (menuNum == 3) sum += 250;
+            else if (menuNum == 4)break;
+            else Console.WriteLine("Wrong input!");
         }
-        static void DisplayHeader()
-        {
-            Console.WriteLine("-------------------------------------------------");
-            Console.WriteLine("\t\tTNI Delivery");
-            Console.WriteLine("-------------------------------------------------");
-            Console.WriteLine("Press 1 : Tokoyaki\t180 Baht.\nPress 2 : Udon\t\t100 Baht.\nPress 3 : Taiyaki\t250 Baht.\nPress 4 : Calculate");
-            Console.WriteLine("-------------------------------------------------");
-
-        }
-        static double CalculateTotalPrice()
-        {
-            const double TOKOYAKI = 180, UDON = 100, TAIYAKI = 250;
-            int num;
-            bool keepGoing = true;
-            double totalPrice = 0;
-            do
-            {
-                Console.Write("Input the number of menu : ");
-                num = int.Parse(Console.ReadLine());
-                switch (num)
-                {
-                    case 1: 
-                        totalPrice += TOKOYAKI;
-                        break;
-                    case 2:
-                        totalPrice += UDON;
-                        break;
-                    case 3:
-                        totalPrice += TAIYAKI;
-                        break;
-                    case 4:
-                        keepGoing = false;
-                        break;
-                    default:
-                        Console.WriteLine("Invalid menu.");
-                        break;
-                }
-            } while (keepGoing);
-
-            Console.WriteLine();
-            return totalPrice;
-        }
-        static void DisplaySummary(double total)
-        {
-            Console.WriteLine($"Total price  is {total:N0} Baht.");
-            Console.WriteLine($"Current time is {DateTime.Now:HH:mm}");
-            Console.WriteLine($"Current time is {DateTime.Now.AddMinutes(30):HH:mm}");
-        }
+        Console.WriteLine($"\nThe total price is {sum:N}Baht.");
+        Console.WriteLine($"Current time is {DateTime.Now:HH:mm}");
+        Console.WriteLine($"Orders will be delivered at {DateTime.Now.AddMinutes(30):HH:mm}");
+        Console.ReadKey();
     }
 }
